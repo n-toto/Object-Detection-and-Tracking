@@ -1,5 +1,11 @@
 # YOLOv3 + Deep_SORT
 
+<font color='red'>
+Modifications by sowd: <br />
+main-my.py and yolo-my.py are created to support output folder
+</font>
+
+
 <img src="https://github.com/yehengchen/video_demo/blob/master/video_demo/output.gif" width="40%" height="40%"> <img src="https://github.com/yehengchen/video_demo/blob/master/video_demo/TownCentreXVID_output.gif" width="40%" height="40%">
 <img src="https://github.com/yehengchen/Object-Detection-and-Tracking/blob/master/OneStage/yolo/yolo_img/output_person_315_1120_s.gif" width="40%" height="40%"> <img src="https://github.com/yehengchen/video_demo/blob/master/video_demo/output_car_143.gif" width="40%" height="40%">
 
