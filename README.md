@@ -2,6 +2,12 @@
   Object Detection and Tracking
 </h1>
 
+Slightly modified by sowd to specify output folder etc..<br />
+Please also check my [Colab](https://colab.research.google.com/drive/1pLfgSmLpa-XJIPt2sW6eWA5NEaxR70TD?usp=sharing).
+
+Original README below.
+<hr />
+
 <div align="center">
   <img src="https://github.com/yehengchen/ObjectDetection/blob/master/img/objectdetection.gif" width="60%" height="60%">
 </div>
