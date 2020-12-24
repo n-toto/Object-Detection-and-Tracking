@@ -21,7 +21,9 @@ import argparse
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--input",help="path to input video", default = "./test_video/det_t1_video_00315_test.avi")
 ap.add_argument("-c", "--class",help="name of class", default = "person")
-ap.add_argument("-o", "--output",help="output", default = "./output/output.avi")
+ap.add_argument("-o", "--output",help="path to output folder", default = "./output")
+ap.add_argument("--interval", help="interval for extraction", default = 300)
+ap.add_argument("--fps", help="video fps", default = 15)
 
 args = vars(ap.parse_args())
 
